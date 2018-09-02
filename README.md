@@ -2,7 +2,9 @@
 
 DESCRIPTION
 The BruinNav Navigation System can load any map from Open Street Maps (https://www.openstreetmap.org/) and find the shortest route between different places using A* algorithm. 
+
 Map data is in mapdata.txt
+
 Valid location name is in validlocs.txt
 
 It will output: 
