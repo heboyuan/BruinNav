@@ -10,6 +10,10 @@ Output instructions include:
 2.Coordinates to fully reconstruct the route 
 3.The total distance in miles
 
+### Example path
+
+![alt text](https://github.com/heboyuan/BruinNav/blob/master/BruinNav/example_path.png)
+
 ### Configeration
 Map data is in mapdata.txt
 Valid location name is in validlocs.txt
